@@ -11,6 +11,9 @@ The Playfair cipher or Playfair square or Wheatstone–Playfair cipher is a manu
 ## Languages
 
 - Python (In Work)
+- Javascript/TS (Planned)
+- C++ / C (Planned)
+- Java (Planned)
 
 ## Contribute
 
